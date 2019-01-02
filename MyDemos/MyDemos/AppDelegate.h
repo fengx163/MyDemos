@@ -12,7 +12,6 @@
 
 @property (nonatomic, strong) UIWindow *window;
 
-@property (nonatomic, strong) UIButton *btn; 
 
 
 
